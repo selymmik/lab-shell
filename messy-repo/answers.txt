@@ -1,0 +1,4 @@
+flag location:./docs/archive/fieldnotes.txt:3
+top level python line counts: 17
+number of lines with todo: 18
+number of python files at top level: 11
